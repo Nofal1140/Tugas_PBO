@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [M_Andre_Naufal_2110010052]">
+  <test thread-count="5" name="TestNG tests(failed)">
+    <classes>
+      <class name="m_andre_naufal_2110010052.M_Andre_Naufal_2110010052NGTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="testMain"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- m_andre_naufal_2110010052.M_Andre_Naufal_2110010052NGTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [M_Andre_Naufal_2110010052] -->
